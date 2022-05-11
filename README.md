@@ -1,14 +1,21 @@
 # Starbucks clone
 
 
-i made in it with the gole of learning reactjs and Redux in mind it is a clone of Starbucks' website all the design was orginaly made by starbucks' team i just recreat it for learning perpose 
-##  Table of contents
 
+##  Table of contents
+- [Overview](#overview)
 - [Available Scripts](#available-scripts)
 - [Built with](#build-with)
 - [Troubleshooting](#troubleshooting)
 
-[Technology used in project](# Technology used in project)
+### Overview
+i made in it with the gole of learning reactjs and Redux in mind it is a clone of Starbucks' website all the design was orginaly made by starbucks' team i just recreat it for learning perpose 
+#### Pages
+ - Home page
+ - Menu page
+ - login page
+ - sign up page
+ 
 ### Available Scripts
 
 In the project directory, you can run:
@@ -45,7 +52,8 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
+### Links
+ Live Site URL: [https://627bf166155c64075e3cd9db--rainbow-licorice-9ba6f6.netlify.app/](https://627bf166155c64075e3cd9db--rainbow-licorice-9ba6f6.netlify.app/)
 ### Build with 
 
 [Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
