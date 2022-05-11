@@ -2,9 +2,11 @@
 
 
 i made in it with the gole of learning reactjs and Redux in mind it is a clone of Starbucks' website all the design was orginaly made by starbucks' team i just recreat it for learning perpose 
-## Contact
+##  Table of contents
 
-[Available Scripts](# Available Scripts)
+- [Available Scripts](#available-scripts)
+- [Built with](#built-with)
+- [Troubleshooting](#troubleshooting)
 
 [Technology used in project](# Technology used in project)
 ### Available Scripts
@@ -44,14 +46,14 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-### Technology used in project
+### Build with 
 
 [Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
 
  [React](https://reactjs.org/).
 
 [Redux](https://redux.js.org/)
-
-### `npm build` fails to minify
+### Troubleshooting
+#### `npm build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
