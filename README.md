@@ -5,7 +5,7 @@ i made in it with the gole of learning reactjs and Redux in mind it is a clone o
 ##  Table of contents
 
 - [Available Scripts](#available-scripts)
-- [Built with](#built-with)
+- [Built with](#build-with)
 - [Troubleshooting](#troubleshooting)
 
 [Technology used in project](# Technology used in project)
